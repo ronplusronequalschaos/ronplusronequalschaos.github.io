@@ -5,11 +5,12 @@ kbd {
     border: 2px solid rgb(189, 189, 189);
     font-family: 'Comic Sans MS';
 }
-.gamescreen{
+.gamescreen {
     width: 100vw;   /* 100% of the viewport width */
     height: 100vh;  /* 100% of the viewport height */
     border: none;   /* Removes the default iframe border */
     display: block; /* Helps with potential whitespace issues */
 }
+
 
 
