@@ -6,11 +6,12 @@ kbd {
     font-family: 'Comic Sans MS';
 }
 .game-iframe {
-    width: 100vw;   /* 100% of the viewport width */
-    height: 100vh;  /* 100% of the viewport height */
+    width: 100%;   /* 100% of the viewport width */
+    height: 100%;  /* 100% of the viewport height */
     border: none;   /* Removes the default iframe border */
     display: block; /* Helps with potential whitespace issues */
 }
+
 
 
 
